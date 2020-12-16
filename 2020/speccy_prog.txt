@@ -1,0 +1,2 @@
+10 LET $i = "Hello"
+20 print i
